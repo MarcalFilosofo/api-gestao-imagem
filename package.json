@@ -1,0 +1,32 @@
+{
+  "name": "api-gestao-imagem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcalFilosofo/api-gestao-imagem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcalFilosofo/api-gestao-imagem/issues"
+  },
+  "homepage": "https://github.com/MarcalFilosofo/api-gestao-imagem#readme",
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.2",
+    "jest": "^27.4.5",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.4",
+    "supertest": "^6.1.6"
+  }
+}
